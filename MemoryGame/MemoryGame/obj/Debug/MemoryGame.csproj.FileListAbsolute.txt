@@ -1,0 +1,11 @@
+C:\Users\jhair\source\repos\MemoryGame\MemoryGame\bin\Debug\MemoryGame.exe.config
+C:\Users\jhair\source\repos\MemoryGame\MemoryGame\bin\Debug\MemoryGame.exe
+C:\Users\jhair\source\repos\MemoryGame\MemoryGame\bin\Debug\MemoryGame.pdb
+C:\Users\jhair\source\repos\MemoryGame\MemoryGame\obj\Debug\MemoryGame.csproj.AssemblyReference.cache
+C:\Users\jhair\source\repos\MemoryGame\MemoryGame\obj\Debug\MemoryGame.csproj.SuggestedBindingRedirects.cache
+C:\Users\jhair\source\repos\MemoryGame\MemoryGame\obj\Debug\MemoryGame.MemoryForm.resources
+C:\Users\jhair\source\repos\MemoryGame\MemoryGame\obj\Debug\MemoryGame.Properties.Resources.resources
+C:\Users\jhair\source\repos\MemoryGame\MemoryGame\obj\Debug\MemoryGame.csproj.GenerateResource.cache
+C:\Users\jhair\source\repos\MemoryGame\MemoryGame\obj\Debug\MemoryGame.csproj.CoreCompileInputs.cache
+C:\Users\jhair\source\repos\MemoryGame\MemoryGame\obj\Debug\MemoryGame.exe
+C:\Users\jhair\source\repos\MemoryGame\MemoryGame\obj\Debug\MemoryGame.pdb
